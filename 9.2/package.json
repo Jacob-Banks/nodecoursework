@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacob-banks",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-banks/nodecoursework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jacob-banks/nodecoursework/issues"
+  },
+  "homepage": "https://github.com/jacob-banks/nodecoursework#readme",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
